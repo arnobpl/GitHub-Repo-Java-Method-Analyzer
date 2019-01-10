@@ -113,7 +113,7 @@ public class GithubRestApiRepoFileHelper {
     //region methods for getting file
 
     /**
-     * This method download a specific file of a given commit as text.
+     * This method downloads a specific file of a given commit as text.
      *
      * @param commitSha commit SHA value of a commit (version of a file)
      * @param fileName  file name (Github file path)

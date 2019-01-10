@@ -166,7 +166,7 @@ public class GithubRepoJavaFileAnalyzer {
     //region helper methods
 
     /**
-     * This methods filter modified java files from fileJsonArray.
+     * This method filters modified java files from fileJsonArray.
      *
      * @param fileJsonArray JsonArray of files of a commit
      * @return filtered JsonArray of files which are modified Java files
